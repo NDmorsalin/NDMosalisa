@@ -1,0 +1,14 @@
+{
+  "name": "Monalisa",
+  "authors": [
+    "NDmorsalin <morsalin056@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jQuery": "^3.5.1"
+  }
+}
